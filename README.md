@@ -1,6 +1,9 @@
 AI Chatbot for Directorate of Monitoring (DOM)
 Project Overview
-This project is an AI-powered chatbot developed to assist the Directorate of Monitoring (DOM) by providing intelligent, context-aware responses based on uploaded documents. The chatbot leverages modern natural language processing (NLP) techniques and advanced AI technologies to efficiently understand and respond to user queries about the DOM's operations, guidelines, and other related information.
+This project is an AI-powered chatbot developed to assist the Directorate of Monitoring (DOM) by providing intelligent, context-aware responses based on uploaded documents. The chatbot leverages modern natural language processing (NLP) techniques and advanced AI technologies to efficiently understand and respond to user queries about the DOM's operations, guidelines, and other related information. This Project is Built by ALI ZULQARNAIN (AI/ML Developer) -2025 @alizulqarnainirfan
+# GitHub:alizulqarnainirfan
+# LinkedIn:alizulqarnainirfan
+# mail:aliirfanawan13@gmail.com
 
 The chatbot integrates several AI components, including LangChain, Hugging Face models, and FAISS for vector-based document search. The FastAPI framework is used to serve the chatbot as a web API, providing a user-friendly interface for interacting with the system.
 

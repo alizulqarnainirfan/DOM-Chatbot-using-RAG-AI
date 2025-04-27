@@ -106,3 +106,8 @@ class QueryRequest(BaseModel):
 def chat_endpoint(request: QueryRequest):
     response = qa_chain.run(request.query)
     return {"response": response}
+
+# Built by ALI ZULQARNAIN (AI/ML Developer) - 2025 @alizulqarnainirfan
+# GitHub:alizulqarnainirfan
+# LinkedIn:alizulqarnainirfan
+# mail:aliirfanawan13@gmail.com
