@@ -1,0 +1,26 @@
+# Ignore local environment folders
+env/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor settings
+.idea/
+.vscode/
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore downloaded models or files
+downloads/
+models/
+faiss_index/
+downloaded_file.docx
+
+# other files to ignore
+DB.docx
